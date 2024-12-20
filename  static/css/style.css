@@ -22,7 +22,7 @@ img {
   padding-top: 6rem; }
   #showcase .home-search {
     min-height: 400px;
-    position: relative;
+    position: relative; 
     border-radius: 5px; }
   #showcase .overlay {
     content: '';
